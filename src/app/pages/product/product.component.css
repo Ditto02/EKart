@@ -1,0 +1,15 @@
+h1{
+    font-weight: 800;
+    font-size: 60px;
+    color: black;
+    text-shadow: -1px 1px 7px;
+    
+}
+.box{
+    background-color:aliceblue;
+    height: 100vh;
+}
+.card{
+    box-shadow: -1px 1px 7px black;
+
+}
